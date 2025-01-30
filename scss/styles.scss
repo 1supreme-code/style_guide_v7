@@ -2,14 +2,13 @@
 /* Sub-Folder Imports */
 /* ============================================= */
 @import 'utilities/index';
-@import 'base/index'
-        'components/index';
+@import 'base/index';
+        
 
 
 //* Base Styles */
 
-@import 
-        'base/normalize',
+@import 'base/normalize',
         'base/typography';
 
 
@@ -30,3 +29,5 @@
 
 
 //* Utilities Style */
+@import 'utilities/mixins',
+        'utilities/variables';
