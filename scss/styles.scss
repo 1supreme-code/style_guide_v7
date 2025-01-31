@@ -3,7 +3,7 @@
 /* ============================================= */
 @import 'utilities/index';
 @import 'base/index';
-        
+@import 'components/index';       
 
 
 //* Base Styles */
@@ -21,8 +21,8 @@
         'components/forms',
         'components/grid',
         'components/images',
-        'components/media-queries',
-        'components/navigation';
+        'components/navigation',
+        'components/media-queries';
 
 
 
