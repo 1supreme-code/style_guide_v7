@@ -1,6 +1,14 @@
 /** color variables **/
 $color-headline:#58e1c1;
+$color-sec-headline: #777;
 $color-col-4:#7ee6fd;
 $color-col-3:#deb2ee;
-$color-col-4:#51ddfc;
 $color-warning-button:#fd7856 ;
+
+
+// Media query breakpoints 
+
+$brk-narrow : '(min-width: 768px)';
+
+
+
